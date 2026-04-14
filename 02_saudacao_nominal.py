@@ -3,4 +3,4 @@
 
 
 usuario = input("olá, qual o seu nome? ")
-print("Seja bem vindo," ,usuario, ",aqui vamos iniciar no mundo da programaçao")
+print(f"Seja bem vindo, {usuario}, aqui vamos iniciar no mundo da programaçao!")
