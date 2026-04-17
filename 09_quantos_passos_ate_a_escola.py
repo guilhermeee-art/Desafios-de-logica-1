@@ -3,3 +3,5 @@ Para isso ela mediu quantos passos ela caminha em um metro e quantos metros há 
 Desenvolva um sistema que receba as informações de quantos passos Ane precisa andar para caminhar um metro, 
 quantos metros ela anda e calcule quanto passos ela precisa caminhar até chegar ao Senac.
 '''
+
+metro = input("quantos passos voce anda em um metro: ")
