@@ -1,0 +1,20 @@
+# Arquivos compilados do Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos de ambiente (senhas, configs)
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
